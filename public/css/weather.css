@@ -1,0 +1,7 @@
+p {
+    color: white;
+}
+.activities {
+    flex: 1;
+    width: 900px;
+}
