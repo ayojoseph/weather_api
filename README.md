@@ -1,4 +1,4 @@
-Weather_api Task
+Weather_api
 
 This app was crete using the Laravel framework.
 To use this app, clone the repo and run the command docker-compose up --build
@@ -16,6 +16,7 @@ Clicking "logout" will logout of the app and clicking your name will return to t
 
 
 ***Tested on MacOS only...
+Initial install can take about 3-5 minutes (depending on machine resources and internet speeds)
 
 Known Issues:
 
